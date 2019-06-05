@@ -9,13 +9,13 @@ import LayoutBase from './Layout'
 const { Header, Content, Footer, Sider } = Layout;
 const { SubMenu } = Menu;
 
-class App extends Component {
+class GoodsList extends Component {
 
   render() {
     return (
-        "welcome!"
+        "goods list!"
     );
   }
 }
 
-export default App;
+export default GoodsList;

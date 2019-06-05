@@ -1,0 +1,47 @@
+.app_header {
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left:2%;
+    color: white;
+    font-size: 22px;
+    font-weight:bold;
+    width:100%;
+    background-color: #6699CC;
+}
+
+.app_menu {
+    width: 18%;
+    overflow:auto;
+    border:1px solid #96C2F1;
+    background-color: #EFF7FF;
+    float:left;
+    height:1100px;
+}
+
+.app_content {
+    float:left;
+    height:1100px;
+    width:82%;
+    border:1px solid #96C2F1;
+    border-left: none;
+}
+
+.app_footer {
+    width:100%;
+    clear: both;
+    background-color: #6699CC;
+    height:60px;
+}
+
+.app_container {
+}
+
+.app_body {
+
+}
+
+.logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+}
